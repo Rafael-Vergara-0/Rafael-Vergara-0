@@ -29,8 +29,7 @@ Mi misión es transformar procesos manuales y repetitivos en soluciones digitale
 
 ## 📂 Repositorios Destacados
 
-🔧 *[RPA_WEB_SCRAPING]* — Automatización RPA con Python para web scraping 
-]
+🔧 [RPA_WEB_SCRAPING](https://github.com/rafael-vergara-0/RPA_WEB_SCRAPING) — Automatización de scraping web usando Python y Selenium para extracción de datos desde sitios web estructurados.
 
 (Pronto compartiré más proyectos realizados en entornos reales de producción. Algunos repositorios están privados por confidencialidad).
 
