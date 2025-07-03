@@ -63,54 +63,55 @@
 ---
 
 ## 🎯 Servicios Especializados
+<table> <tr> <td width="50%">
+🤖 Automatización RPA
+Bots para procesos repetitivos y tareas manuales
 
-<table>
-<tr>
-<td width="50%">
+Extracción y carga de datos entre sistemas (ETL automatizado)
 
-### 🤖 Automatización RPA
-- Detección de anomalías en SAP
-- Actualización dinámica de inventarios
-- Generación automática de facturación
-- Reportería de ventas automatizada
-- Estructuración de datos operativos
+Generación automática de informes y facturas
 
-</td>
-<td width="50%">
+Interacción con sistemas SAP mediante interfaces
 
-### 🌐 Desarrollo Web
-- Aplicaciones internas para ventas
-- Sistemas de gestión ambiental
-- Dashboards interactivos
-- Integración con sistemas empresariales
-- Automatización de ciclos de facturación
+Orquestación de flujos con lógica condicional
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</td> <td width="50%">
+🌐 Desarrollo Web
+Aplicaciones internas con Python (Django) y React
 
-### 📊 Análisis de Datos
-- Visualización de KPIs
-- Monitoreo de consumos (agua/energía)
-- Control de residuos y PTAR
-- Reportes automáticos
-- Dashboards de calidad
+Formularios inteligentes y gestión de usuarios
 
-</td>
-<td width="50%">
+Dashboards interactivos para visualización de indicadores
 
-### 🎯 Gestión de Calidad
-- Estandarización de datos
-- Gestión de inocuidad
-- Cumplimiento BPM
-- Control de inventario de muestras
-- Trazabilidad en planta
+APIs REST para integración entre sistemas
 
-</td>
-</tr>
-</table>
+Automatización de ciclos administrativos desde la web
 
+</td> </tr> <tr> <td width="50%">
+📊 Análisis y Visualización de Datos
+Limpieza, transformación y validación de datos operativos
+
+Diseño de dashboards con Power BI y Looker Studio
+
+Automatización de reportes en Excel, PDF y correo electrónico
+
+Visualización de indicadores en tiempo real
+
+Seguimiento de consumos, producción, calidad y más
+
+</td> <td width="50%">
+🧪 Gestión de Calidad y Procesos
+Digitalización de formatos y registros en planta
+
+Validación de datos críticos (BPM, HACCP, trazabilidad)
+
+Estandarización y control de datos de inocuidad
+
+Automatización del seguimiento de acciones correctivas
+
+Gestión documental para cumplimiento normativo
+
+</td> </tr> </table>
 ---
 
 ## 📂 Proyectos Destacados
